@@ -35,7 +35,7 @@ class MoviesScreen extends StatelessWidget {
                       child: Icon(
                         Icons.arrow_back_ios_new,
                         color: Colors.white,
-                        size: 28,
+                        size: 27,
                       ),
                     ),
                   ),

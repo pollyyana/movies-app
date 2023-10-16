@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+desing do Dear Programmer como base para estudo de gerencia de estado
 
 ## Getting Started
 
